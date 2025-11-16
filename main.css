@@ -1,0 +1,13 @@
+body{
+background-color: deepskyblue;
+text-align: center;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    width: 1000px;
+text-align: center;
+margin-left: 400px;
+}
