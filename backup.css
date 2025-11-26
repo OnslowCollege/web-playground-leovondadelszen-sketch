@@ -6,12 +6,17 @@ h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
 text-align: center;
 text-decoration: underline;
+
 }
 p{
-    width: 1000px;
+  border: 2px solid black;
+    padding: 10px; 
+      width: 700px;
 text-align: center;
 margin-left: 400px;
 font-size: 20px
+
+
 }
 img{ margin-left:auto;
     margin-right:auto;
