@@ -5,6 +5,7 @@ text-align: center;
 h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
 text-align: center;
+text-decoration: underline;
 }
 p{
     width: 1000px;
