@@ -1,5 +1,5 @@
 body{
-background-color: bisque;
+background-color: paleturquoise;
 text-align: center;
 }
 h1{
@@ -10,10 +10,6 @@ p{
     width: 1000px;
 text-align: center;
 margin-left: 400px;
-}
-span {
-    text-align: center;
-    background-color: lightcyan;
 }
 img{ margin-left:auto;
     margin-right:auto;
